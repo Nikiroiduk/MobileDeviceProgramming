@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "Lab1"
 include(":app")
 include(":p0011lab1")
+include(":p0021lab2")
